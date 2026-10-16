@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-MOSS-Diarize-Native"
+description = "Native dependency-free MOSS-Transcribe-Diarize speech-to-text with speaker labels for ComfyUI."
+version = "0.1.0"
+license = "MIT"
+readme = "README.md"
+requires-python = ">=3.10"
+
+[project.urls]
+Repository = "https://github.com/Aero-Ex/ComfyUI-MOSS-Diarize-Native"
+
+[tool.comfy]
+PublisherId = "aerox"
+DisplayName = "MOSS-Diarize"
+Icon = ""
